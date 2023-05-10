@@ -1,2 +1,2 @@
-# Calculator-with-Pyton
+# Calculator-using-Pyton
 Manual Calculator using Python 
